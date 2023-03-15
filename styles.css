@@ -218,7 +218,7 @@ section {
   display: flex;
   align-items: center;
   background: linear-gradient(rgb(15, 107, 187), rgba(255, 255, 255, 0.7)),
-    url(/IMAGES/krakenjs-svgrepo-com.svg) no-repeat;
+    url(IMAGES/krakenjs-svgrepo-com.svg) no-repeat;
   background-size: cover;
   background-position: center;
 }
